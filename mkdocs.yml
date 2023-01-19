@@ -4,5 +4,6 @@ use_directory_urls: false
 
 nav:
     - 'Getting Started Testing':             'README.md'
+    - 'show doc': 'document/show.md'
     
 
