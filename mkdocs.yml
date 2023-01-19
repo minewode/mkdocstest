@@ -1,0 +1,8 @@
+edit_uri: edit/main
+
+use_directory_urls: false
+
+nav:
+    - 'Getting Started Testing':             'README.md'
+    
+
